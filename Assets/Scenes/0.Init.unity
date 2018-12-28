@@ -521,7 +521,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u7279\u5FC3\u75BC2"
+  m_Text: '22222222
+
+'
 --- !u!222 &1376362315
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -763,7 +765,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1970268802}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: 0.6532815, y: 0.27059808, z: -0.27059808, w: 0.6532815}
   m_LocalPosition: {x: -0.09796299, y: -0.04203181, z: 0.19888037}
   m_LocalScale: {x: 2, y: 2, z: 2}
   m_Children: []
